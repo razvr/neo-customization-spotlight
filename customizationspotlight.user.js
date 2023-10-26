@@ -3,6 +3,7 @@
 // @description  Enlarges pet image x4 when voting in the customization spotlight.
 // @version      2.0
 // @homepage     https://github.com/razvr/neo-customization-spotlight/
+// @updateURL    https://github.com/razvr/neo-customization-spotlight/blob/main/customizationspotlight.user.js
 // 
 // @match        *://*.neopets.com/spotlights/custompet/custom_spotlight_votes.phtml*
 // @icon         https://www.neopets.com/favicon.ico
