@@ -1,5 +1,6 @@
 # Neopets - Customization Spotlight Contest Picture Enlarger
-Enlarges pet image x4 when voting in the [Customization Spotlight](https://www.neopets.com/spotlights/custompet/custom_spotlight_votes.phtml) on Neopets.
+
+When voting in the [Customization Spotlight](https://www.neopets.com/spotlights/custompet/custom_spotlight_votes.phtml) on Neopets, the image the site gives you to judge are really tiny. This script grabs and displays a larger image from Neo's server. Happy voting!
 
 ## How to Use
 
